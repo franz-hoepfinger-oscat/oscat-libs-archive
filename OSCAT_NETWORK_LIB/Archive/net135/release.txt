@@ -1,0 +1,30 @@
+neue Funktionen und Änderungen in oscat_network 1.35: 
+
+Alle Änderungen der OSCAT_NETWORK 1.30 BETA sind integriert
+
+DATA_LOGGER
+Optimierung des kompletten Datenlogger-Paket
+verbesserte Stabilität bei hoher Auslastung,
+Zusätzliche AuslastungsInfos und Fehlermeldungen,
+Neuer DLOG_REAL_ARRAY Baustein
+
+UNI_CIRCULAR_BUFFER
+Auslastungsüberwachung integriert
+
+MYSQL
+Zusätzliche Statusinformationen hinzugefügt
+
+FILE_SERVER
+Messung der Laufzeiten der einzelnen Dateihandlingsbefehle
+
+HTTP_GET 	Authorisierung integriert und SSL/TLS Support
+ 		(Achtung SSL/TLS Support nur für Steuerungen von Phoenix Contact)
+
+SMTP_CLIENT	Verbesserung und SSL/TLS Support
+ 		(Achtung SSL/TLS Support nur für Steuerungen von Phoenix Contact)
+
+YAHOO_WEATHER
+komplette umstellung auf neue YAHOO-API
+Optimierung des Speicherbedarf (funktioniert mit standard networkbuffer (4096 bytes)
+
+

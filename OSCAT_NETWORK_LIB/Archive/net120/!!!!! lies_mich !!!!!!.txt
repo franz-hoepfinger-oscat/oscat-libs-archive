@@ -1,0 +1,19 @@
+icons.zip
+
+enthält grafiken für wetter,windrichtung,mond etc...
+wo bzw in welcher kategorie können wir das online stellen ?
+
+-----------------------------------------------------------
+oscat_basic_micro_332.lib
+
+ist für alle wago user die mit dem problem der maximalen bausteinanzahl nicht mehr zurecht kommen
+das ist im prinzip eine oscat_base, jedoch sind nur die bausteine enthalten die die network.lib benötigt
+
+wo bzw in welcher kategorie können wir das online stellen ?
+erklärung für user notwendig ?
+
+------------------------------------------------------------
+
+
+Hermann muss noch die "oscat_netlib120_de.pdf" und "oscat_netlib120_en.pdf" generieren 
+---------------------------------------------------------------------------------------

@@ -1,0 +1,6 @@
+neue Funktionen und Änderungen in oscat_network 1.30: 
+
+Diverse Fehlerbereinigungen
+Optimierung und Verbesserung des Datenlogger-Paketes
+Direktes Datenloggen in eine MySQL-Server Datenbank
+

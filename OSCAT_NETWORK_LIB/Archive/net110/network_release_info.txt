@@ -1,0 +1,11 @@
+network.lib 1.10
+
+Plattformen:
+CoDeSys
+PCWorx
+Beckhoff (NEU)
+
+neue Funktionen:
+FTP-Transfer up/download, Email senden mit Dateianhang, Datenlogger Paket, grafische Oberfläche für Telnet, World_weather für 5 Tage, FILE_SERVER (Plattformneutraler Zugriff auf Dateien), Kryptografische Funktionen RC4/MD5/SHA1, neue DNS Funktionen, BASE64, geografische lokalisierung von IP-Teilnehmern, Auswertung von INI-Dateien (Setup-Files), und vieles mehr...
+
+ 

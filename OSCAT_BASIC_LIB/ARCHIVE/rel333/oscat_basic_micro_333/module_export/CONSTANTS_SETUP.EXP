@@ -1,0 +1,16 @@
+(* @NESTEDCOMMENTS := 'Yes' *)
+(* @PATH := '' *)
+TYPE CONSTANTS_SETUP :
+STRUCT
+	(* setup Parameters *)
+	EXTENDED_ASCII : BOOL := TRUE;
+	CHARNAMES : ARRAY[1..4] OF STRING(253) := ';"&quot;&&amp;<&lt;>&gt;€&euro; &nbsp;¡&iexcl;¢&cent;£&pound;¤&curren;¥&yen;¦&brvbar;§&sect;¨&uml;©&copy;ª&ordf;«&laquo;¬&not;­&shy;®&reg;¯&macr;°&deg;±&plusmn;²&sup2;³&sup3;´&acute;µ&micro;¶&para;·&middot;¸&cedil;¹&sup1;º&ordm;»&raquo;¼&frac14;Û&Ucirc;',
+		';¾&frac34;¿&iquest;À&Agrave;Á&Aacute;Â&Acirc;Ã&Atilde;Ä&Auml;Å&Aring;Æ&AElig;Ç&Ccedil;È&Egrave;É&Eacute;Ê&Ecirc;Ë&Euml;Ì&Igrave;Í&Iacute;Î&Icirc;Ï&Iuml;Ð&ETH;Ñ&Ntilde;Ò&Ograve;Ó&Oacute;Ô&Ocirc;Õ&Otilde;Ö&Ouml;×&times;Ø&Oslash;Ù&Ugrave;Ú&Uacute;½&frac12;',
+		';Ü&Uuml;Ý&Yacute;Þ&THORN;ß&szlig;à&agrave;á&aacute;â&acirc;ã&atilde;ä&auml;å&aring;æ&aelig;ç&ccedil;è&egrave;é&eacute;ê&ecirc;ë&euml;ì&igrave;í&iacute;î&icirc;ï&iuml;ð&eth;ñ&ntilde;ò&ograve;ó&oacute;ô&ocirc;õ&otilde;ö&ouml;÷&divide;ø&oslash;ù&ugrave;',
+		';ú&uacute;û&ucirc;ü&uuml;ý&yacute;þ&thorn;ÿ&yuml;';
+	MTH_OFS : ARRAY[1..12] OF INT := 0,31,59,90,120,151,181,212,243,273,304,334;
+	DECADES : ARRAY[0..8] OF REAL := 1.0,10.0,100.0,1000.0,10000.0,10000.0,100000.0,1000000.0,10000000.0;
+END_STRUCT
+END_TYPE
+
+(* @END_DECLARATION := '0' *)
