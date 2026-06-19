@@ -47,105 +47,105 @@ For a complete overview and links to all licenses, please see [LICENSE.md](LICEN
 
 ## Historical Releases & Downloads
 
-> **Aktuelle Dokumentation:** https://oscat.readthedocs.io
+> **Current Documentation:** https://oscat.readthedocs.io
 
 ### CODESYS V2.3
 
 #### OSCAT Basic 3.36
 
-https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_BASIC_LIB/ARCHIVE/rel336
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BASIC_LIB/ARCHIVE/rel336/oscat_basic_336.lib
+- [Folder](https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_BASIC_LIB/ARCHIVE/rel336)
+- [oscat_basic_336.lib](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BASIC_LIB/ARCHIVE/rel336/oscat_basic_336.lib)
 
 #### OSCAT Network 1.21 HF1
 
-https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_NETWORK_LIB/Archive/net121
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_NETWORK_LIB/Archive/net121/codesys_network_121_hf1.lib
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_NETWORK_LIB/Archive/net121/oscat_netlib121_de.pdf
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_NETWORK_LIB/Archive/net121/oscat_netlib121_en.pdf
+- [Folder](https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_NETWORK_LIB/Archive/net121)
+- [codesys_network_121_hf1.lib](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_NETWORK_LIB/Archive/net121/codesys_network_121_hf1.lib)
+- [Docs (DE)](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_NETWORK_LIB/Archive/net121/oscat_netlib121_de.pdf)
+- [Docs (EN)](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_NETWORK_LIB/Archive/net121/oscat_netlib121_en.pdf)
 
 #### OSCAT Network 1.35
 
-https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_NETWORK_LIB/Archive/net135
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_NETWORK_LIB/Archive/net135/codesys_network_135.lib
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_NETWORK_LIB/Archive/net135/oscat_netlib135_de.pdf
+- [Folder](https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_NETWORK_LIB/Archive/net135)
+- [codesys_network_135.lib](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_NETWORK_LIB/Archive/net135/codesys_network_135.lib)
+- [Docs (DE)](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_NETWORK_LIB/Archive/net135/oscat_netlib135_de.pdf)
 
 #### OSCAT Building 1.00
 
-https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_BUILDING_LIB/Archive/rel100
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BUILDING_LIB/Archive/rel100/oscat_building_100.lib
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BUILDING_LIB/Archive/rel100/oscat_building100_de.pdf
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BUILDING_LIB/Archive/rel100/oscat_building100_en.pdf
+- [Folder](https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_BUILDING_LIB/Archive/rel100)
+- [oscat_building_100.lib](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BUILDING_LIB/Archive/rel100/oscat_building_100.lib)
+- [Docs (DE)](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BUILDING_LIB/Archive/rel100/oscat_building100_de.pdf)
+- [Docs (EN)](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BUILDING_LIB/Archive/rel100/oscat_building100_en.pdf)
 
 ### CODESYS V3
 
 #### OSCAT Basic 3.35
 
-https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_BASIC_LIB/ARCHIVE/rel335
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BASIC_LIB/ARCHIVE/rel335/oscat_basic_335.library
+- [Folder](https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_BASIC_LIB/ARCHIVE/rel335)
+- [oscat_basic_335.library](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BASIC_LIB/ARCHIVE/rel335/oscat_basic_335.library)
 
 #### OSCAT Network 1.35
 
-Bitte die V2.3 Version verwenden, wir haben keinen expliziten Port für V3.
+Please use the V2.3 version, there is no explicit port for V3.
 
-https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_NETWORK_LIB/Archive/net135
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_NETWORK_LIB/Archive/net135/oscat_netlib135_de.pdf
+- [Folder](https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_NETWORK_LIB/Archive/net135)
+- [Docs (DE)](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_NETWORK_LIB/Archive/net135/oscat_netlib135_de.pdf)
 
 #### OSCAT Building 1.00
 
-https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_BUILDING_LIB/Archive/rel100
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BUILDING_LIB/Archive/rel100/oscat_building_100.lib
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BUILDING_LIB/Archive/rel100/oscat_building100_de.pdf
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BUILDING_LIB/Archive/rel100/oscat_building100_en.pdf
+- [Folder](https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_BUILDING_LIB/Archive/rel100)
+- [oscat_building_100.lib](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BUILDING_LIB/Archive/rel100/oscat_building_100.lib)
+- [Docs (DE)](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BUILDING_LIB/Archive/rel100/oscat_building100_de.pdf)
+- [Docs (EN)](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BUILDING_LIB/Archive/rel100/oscat_building100_en.pdf)
 
 ### Beckhoff
 
 #### OSCAT Network 1.21
 
-https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_NETWORK_LIB/Archive/net121
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_NETWORK_LIB/Archive/net121/beckhoff_network_121.lib
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_NETWORK_LIB/Archive/net121/oscat_netlib121_de.pdf
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_NETWORK_LIB/Archive/net121/oscat_netlib121_en.pdf
+- [Folder](https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_NETWORK_LIB/Archive/net121)
+- [beckhoff_network_121.lib](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_NETWORK_LIB/Archive/net121/beckhoff_network_121.lib)
+- [Docs (DE)](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_NETWORK_LIB/Archive/net121/oscat_netlib121_de.pdf)
+- [Docs (EN)](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_NETWORK_LIB/Archive/net121/oscat_netlib121_en.pdf)
 
 ### Siemens S7
 
 #### OSCAT Basic 3.32
 
-https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_BASIC_LIB/ARCHIVE/rel332
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BASIC_LIB/ARCHIVE/rel332/oscat_basic_332_s7.zip
+- [Folder](https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_BASIC_LIB/ARCHIVE/rel332)
+- [oscat_basic_332_s7.zip](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BASIC_LIB/ARCHIVE/rel332/oscat_basic_332_s7.zip)
 
 #### OSCAT Network
 
-not available
+Not available
 
 #### OSCAT Building 1.00
 
-https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_BUILDING_LIB/Archive/rel100
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BUILDING_LIB/Archive/rel100/s7_building_100.zip
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BUILDING_LIB/Archive/rel100/oscat_building100_de.pdf
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BUILDING_LIB/Archive/rel100/oscat_building100_en.pdf
+- [Folder](https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_BUILDING_LIB/Archive/rel100)
+- [s7_building_100.zip](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BUILDING_LIB/Archive/rel100/s7_building_100.zip)
+- [Docs (DE)](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BUILDING_LIB/Archive/rel100/oscat_building100_de.pdf)
+- [Docs (EN)](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BUILDING_LIB/Archive/rel100/oscat_building100_en.pdf)
 
 ### PC Worx
 
 #### OSCAT Basic 3.33
 
-https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_BASIC_LIB/ARCHIVE/rel333
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BASIC_LIB/ARCHIVE/rel333/pcworx_basic_333.zip
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BASIC_LIB/ARCHIVE/rel333/oscat_basic333_de.pdf
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BASIC_LIB/ARCHIVE/rel333/oscat_basic333_en.pdf
+- [Folder](https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_BASIC_LIB/ARCHIVE/rel333)
+- [pcworx_basic_333.zip](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BASIC_LIB/ARCHIVE/rel333/pcworx_basic_333.zip)
+- [Docs (DE)](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BASIC_LIB/ARCHIVE/rel333/oscat_basic333_de.pdf)
+- [Docs (EN)](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BASIC_LIB/ARCHIVE/rel333/oscat_basic333_en.pdf)
 
 #### OSCAT Network 1.21
 
-https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_NETWORK_LIB/Archive/net121
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_NETWORK_LIB/Archive/net121/pcworx_network_121.zip
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_NETWORK_LIB/Archive/net121/oscat_netlib121_de.pdf
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_NETWORK_LIB/Archive/net121/oscat_netlib121_en.pdf
+- [Folder](https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_NETWORK_LIB/Archive/net121)
+- [pcworx_network_121.zip](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_NETWORK_LIB/Archive/net121/pcworx_network_121.zip)
+- [Docs (DE)](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_NETWORK_LIB/Archive/net121/oscat_netlib121_de.pdf)
+- [Docs (EN)](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_NETWORK_LIB/Archive/net121/oscat_netlib121_en.pdf)
 
 #### OSCAT Building 1.00
 
-https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_BUILDING_LIB/Archive/rel100
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BUILDING_LIB/Archive/rel100/pcworx_building_100_hotfix_1.zip
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BUILDING_LIB/Archive/rel100/oscat_building100_de.pdf
-https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BUILDING_LIB/Archive/rel100/oscat_building100_en.pdf
+- [Folder](https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_BUILDING_LIB/Archive/rel100)
+- [pcworx_building_100_hotfix_1.zip](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BUILDING_LIB/Archive/rel100/pcworx_building_100_hotfix_1.zip)
+- [Docs (DE)](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BUILDING_LIB/Archive/rel100/oscat_building100_de.pdf)
+- [Docs (EN)](https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BUILDING_LIB/Archive/rel100/oscat_building100_en.pdf)
 
 
 
