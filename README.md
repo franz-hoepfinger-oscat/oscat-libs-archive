@@ -47,19 +47,40 @@ For a complete overview and links to all licenses, please see [LICENSE.md](LICEN
 
 ## Historical Releases & Downloads
 
-### OSCAT Basic 3.35
+### CODESYS V2.3
 
-https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_BASIC_LIB/ARCHIVE/rel335
-
-### OSCAT Basic 3.36
+#### OSCAT Basic 3.36
 
 https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_BASIC_LIB/ARCHIVE/rel336
 
-### OSCAT Network 1.10
+### CODESYS V3
+
+#### OSCAT Basic 3.35
+
+https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_BASIC_LIB/ARCHIVE/rel335
+
+#### OSCAT Network 1.10
 
 https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_NETWORK_LIB/Archive/net135
 
-### OSCAT Building 1.00
+#### OSCAT Building 1.00
 
 https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_BUILDING_LIB/Archive/rel100
+
+### Siemens S7
+
+#### OSCAT Basic 3.32
+
+https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_BASIC_LIB/ARCHIVE/rel332
+https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BASIC_LIB/ARCHIVE/rel332/oscat_basic_332_s7.zip
+
+### PC Worx
+
+#### OSCAT Basic 3.33
+
+https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_BASIC_LIB/ARCHIVE/rel333
+https://github.com/eclipse-oscat/oscat-libs-archive/raw/refs/heads/main/OSCAT_BASIC_LIB/ARCHIVE/rel333/pcworx_basic_333.zip
+
+
+
 
